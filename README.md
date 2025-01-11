@@ -53,7 +53,7 @@ Hydrological data is often collected over time and can be analyzed to understand
 
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Workshop_Py_Water.ipynb
+   jupyter notebook GIS_Water.ipynb
    ```
 
 2. Follow the structured sections in the notebook:
